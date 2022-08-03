@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
 ## Resources
-- Data Source: [city_data.csv]()
-- Data Source: [ride_data.csv]()
+- Data Source: [city_data.csv](https://github.com/nkinsler/PyBer_Analysis/blob/main/Resources/city_data.csv)
+- Data Source: [ride_data.csv](https://github.com/nkinsler/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 - Software: Python 3.7 (64 bit)
-- Python: [PyBer_Challenge]()
+- Python: [PyBer_Challenge](https://github.com/nkinsler/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 ## Overview of the Analysis
 
@@ -17,9 +17,9 @@ Mulitple-line graph to display total fares by week for the period of January 1, 
 ## Results
 
 ### Ride-Sharing Summary DataFrame by City Type
-![PyBer_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_District_Summary.png)
+![PyBer_Summary](https://github.com/nkinsler/PyBer_Analysis/blob/main/Analysis/PyBer_Summary.png)!
 
 ### Mulitple-Line Chart of Total Fares for Each City Type
-![PyBer_fare_summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_District_Summary.png)
+![PyBer_fare_summary](https://github.com/nkinsler/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)!
 
 ## Summary
